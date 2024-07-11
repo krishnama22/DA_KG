@@ -5,3 +5,5 @@ To access this Uber data set, download it from the link given below:
 https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city/download
 
 Thank you for visiting and let's keep on making data work for us
+
+PS: Also provided a reversed-geocode tool for conformation of lat and long used :)
